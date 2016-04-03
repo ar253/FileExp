@@ -1,3 +1,4 @@
+/* test program for git*/
 #include <ncurses.h>
 
 int main()
